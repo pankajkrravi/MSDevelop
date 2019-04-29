@@ -1,0 +1,5 @@
+package com.goomo.microservices.limitsservice;
+
+public class Configuration {
+
+}
