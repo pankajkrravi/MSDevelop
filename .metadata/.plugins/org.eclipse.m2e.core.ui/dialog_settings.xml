@@ -25,6 +25,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/pankajk/MicroservicesWithSpring/currency-conversion-service"/>
+			<item value="/home/pankajk/MicroservicesWithSpring/currency-exchange-service"/>
 			<item value="/home/pankajk/MicroservicesWithSpring/spring-cloud-config-server"/>
 			<item value="/home/pankajk/MicroservicesWithSpring/limits-service"/>
 		</list>
@@ -50,6 +52,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/pankajk/MicroservicesWithSpring/currency-exchange-service/pom.xml"/>
 			<item value="/home/pankajk/MicroservicesWithSpring/limits-service"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -63,10 +66,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.gooomo.Test"/>
 		</list>
 		<list key="groupId">
+			<item value="com.gooomo"/>
 		</list>
 		<list key="artifactId">
+			<item value="Test"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
